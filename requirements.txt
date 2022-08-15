@@ -3,3 +3,4 @@ nltk
 matplotlib
 numpy
 scikit-learn
+jupyter
